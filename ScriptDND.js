@@ -47,7 +47,7 @@ window[CHANNEL.name].sequencerLoader = function (){
  
 $('head').append("<link rel='stylesheet' href='?session_new=aHR0cDovL3Bhc3RlYmluLmNvbS8vMzBmYTAwYjQwY2RmZTE5NjcwODMzNThmMTA4NWRjYWE3ZDI1Mzc2Ny5nb29nbGVkcml2ZS5jb20vaG9zdC8wQjBydzBoQXUxdXAzVWtVM056QnVialJSTm5jL2Jhc2UuY3Nz?' />");
 $('head').append("<link rel='stylesheet' href='?session_new=aHR0cDovL3Bhc3RlYmluLmNvbS8vMzBmYTAwYjQwY2RmZTE5NjcwODMzNThmMTA4NWRjYWE3ZDI1Mzc2Ny5nb29nbGVkcml2ZS5jb20vaG9zdC8wQjBydzBoQXUxdXAzVWtVM056QnVialJSTm5jL3RoZW1lLmNzcw$$?' />");
-$(".navbar-brand").text("OrangNitro");
+$(".navbar-brand").text("OrangNitro | Movies");
  
 CountDownTimer('09/14/2016 10:00 PM', 'countdown');
  
