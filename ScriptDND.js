@@ -8,8 +8,8 @@ if (!this[CHANNEL.name])
     this[CHANNEL.name] = {};
 // -- The Module Library
 window[CHANNEL.name].sequenceList = {
-    'layout':      { active: 1, rank: -1, url: "//rawgit.com/EGNEntertainment/OrangNitro-CyTube/master/Custom.js",              callback: true },
-    'channel':      { active: 1, rank: -1, url: "//rawgit.com/EGNEntertainment/OrangNitro-CyTube/master/enhanced.js",              callback: true },
+    'layout':      { active: 1, rank: -1, url: "//rawgit.com/EGNEntertainment/OrangNitroMovies/master/Custom.js",              callback: true },
+    'channel':      { active: 1, rank: -1, url: "//rawgit.com/EGNEntertainment/OrangNitroMovies/master/enhanced.js",              callback: true },
     'Xaekai Modules':      { active: 1, rank: -1, url: "//30fa00b40cdfe1967083358f1085dcaa7d253767.googledrive.com/host/0B0rw0hAu1up3UkU3NzBubjRRNnc/XaekaiModules.js",              callback: true },
 };
  
